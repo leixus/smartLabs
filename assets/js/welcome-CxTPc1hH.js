@@ -1,1 +1,1 @@
-const s="/assets/png/welcome-VFYC1WKN.png";export{s as _};
+const s="/smartLabs/assets/png/welcome-VFYC1WKN.png";export{s as _};
