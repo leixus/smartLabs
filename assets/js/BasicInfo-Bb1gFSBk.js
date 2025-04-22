@@ -1,0 +1,1 @@
+import{_ as o}from"./BasicInfo.vue_vue_type_script_setup_true_lang-C2mklx7T.js";/* empty css             *//* empty css                             *//* empty css               */import"./index-ClSyKtod.js";export{o as default};
