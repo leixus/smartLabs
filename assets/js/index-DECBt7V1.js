@@ -1,0 +1,1 @@
+import{_ as o}from"./welcome-CxTPc1hH.js";import{_ as s}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as r,o as t,a}from"./index-yDSqlga2.js";const c={},_={class:"home card"};function m(n,e){return t(),r("div",_,e[0]||(e[0]=[a("img",{class:"home-bg",src:o,alt:"welcome"},null,-1)]))}const f=s(c,[["render",m],["__scopeId","data-v-a8b8b9c9"]]);export{f as default};
